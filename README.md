@@ -15,9 +15,40 @@
 - 😄 Pronouns: <strong>code</strong> :computer:
 - ⚡ Fun fact: <strong>travelling</strong> :airplane:
 
-### connect with me:
+### Connect with me:
 
-[<img align="left" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[<img align="left" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+
+[<img width="40" height="40" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png">](bilalhameed0800@gmail.com)
+
+### Tools:
+
+[<img align="left" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969010.png">]()
+
+[<img align="left" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">]()
+
+[<img width="40" height="40" src="https://resources.jetbrains.com/storage/products/toolbox/img/meta/toolbox_logo_300x300.png">]()
+
+
+
+
+
+
+### Languages:
+
+[<img align="left" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">]()
+
+[<img align="left" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png">]()
+
+[<img align="left" width="40" height="40" src="https://toppng.com/uploads/preview/java-logo-11609365784e4gmvr3iyr.png">]()
+
+
+
+
+
+
+
+
 
 
 
